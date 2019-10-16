@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Einstein</string>
+
+    <string name="switch_mode">Switch mode</string>
+    <string name="view_achievement">Daily log</string>
+    <string name="settings">Log</string>
+    <string name="logout">Log out</string>
+
+    <string name="client_access_token">ade9602fbe614b31a7b500f77169da0a</string>
+    <string name="title_activity_login">Masuk</string>
+    <string name="title_activity_register">Daftar</string>
+    <string name="title_activity_log">log</string>
+    <string name="title_activity_chat">EINSTEIN</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_register">Belum punya akun? Daftar</string>
+    <string name="action_sign_in_short">Masuk Form</string>
+    <string name="error_invalid_password">Password Harus Lebih Dari 4 Karakter </string>
+    <string name="error_incorrect_username">Username atau Password Salah ! Ulangi</string>
+    <string name="error_incorrect_password">Username atau Password Salah ! Ulangi</string>
+    <string name="error_field_required">Username atau Password tidak boleh kosong. </string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to log -->
+
+    <!-- Strings related to slider -->
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">Asisten Belajar</string>
+    <string name="slide_1_desc">Asisten Belajar yang akan membantu dalam belajar </string>
+
+    <string name="slide_2_title">Tanya Jawab</string>
+    <string name="slide_2_desc">Bertanya kepada bot ketika tidak mengerti pelajaran</string>
+
+    <string name="slide_3_title">QUIZ</string>
+    <string name="slide_3_desc">Ulangi pembelajaran dengan mengerjakan soal latihan</string>
+
+
+</resources>
